@@ -1,5 +1,7 @@
-## Hi there 👋
+<div align="center">
 
+<img src="**[link de la imagen](https://media.discordapp.net/attachments/852709821105963051/1305023978510880768/Untitled338_20241109231918.png?ex=673185ca&is=6730344a&hm=36a6a29994ec4c00a6a4026ba485c21f20137f1d79b7d476e14ac0b7a487d68b&=&format=webp&quality=lossless&width=517&height=350)**" width="500" height="320">
+![](https://komarev.com/ghpvc/?username= github user) 
 <!--
 **YONYONMOON/YONYONMOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
